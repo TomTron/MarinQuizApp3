@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/Tom/AndroidStudioProjects/MarinQuizApp3/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="/Users/Tom/AndroidStudioProjects/MarinQuizApp3/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.1.0_7ba5c32bda8e395a4dc3c71741e3a3a30d6615bf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Tom/AndroidStudioProjects/MarinQuizApp3/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="/Users/Tom/AndroidStudioProjects/MarinQuizApp3/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.1.0_729f733b21b32b2cf1eba9eb733291306e5d31ab/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Tom/AndroidStudioProjects/MarinQuizApp3/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="/Users/Tom/AndroidStudioProjects/MarinQuizApp3/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.1.0_2ad4a5dc995771463c35c2fff72ba2d0a27bcd5d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Tom/AndroidStudioProjects/MarinQuizApp3/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ddf9e1c7eac240a80dcb205b9575202ef765b19d">
+        <dex dex="/Users/Tom/AndroidStudioProjects/MarinQuizApp3/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_8ed25d4409d4c4b73d81b5b091a47dce8c812f6b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Tom/AndroidStudioProjects/MarinQuizApp3/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="/Users/Tom/AndroidStudioProjects/MarinQuizApp3/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.1.0_01cf3247baacf84a2d08d282fd6ab0d5734e70ae/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Tom/AndroidStudioProjects/MarinQuizApp3/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/Tom/AndroidStudioProjects/MarinQuizApp3/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.1.0_edb1923c391fe2defaa7f3dd5966773468e3a031/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Tom/AndroidStudioProjects/MarinQuizApp3/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="/Users/Tom/AndroidStudioProjects/MarinQuizApp3/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.1.0_c91cf50b852c12ae114361c24571e448035c2cf1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Tom/AndroidStudioProjects/MarinQuizApp3/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="/Users/Tom/AndroidStudioProjects/MarinQuizApp3/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.1.0_0ff80850741ade1bd1bc78f212ebdb53645acc45/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Tom/AndroidStudioProjects/MarinQuizApp3/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e7d00666f5d9ba1f1cb41f0ca928046dabe4ec48">
+        <dex dex="/Users/Tom/AndroidStudioProjects/MarinQuizApp3/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_ac19dab656e5408ac02101e907db5bb41547b390/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Tom/AndroidStudioProjects/MarinQuizApp3/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="/Users/Tom/AndroidStudioProjects/MarinQuizApp3/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.1.0_51ae86075555cac1f94fd969c7ad4160ff96c4d9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Tom/AndroidStudioProjects/MarinQuizApp3/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="/Users/Tom/AndroidStudioProjects/MarinQuizApp3/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.1.0_06e1314e54bfe8f20bbed95b7e272fb81f44236f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Tom/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.0/support-annotations-25.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="/Users/Tom/AndroidStudioProjects/MarinQuizApp3/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.1.0_e9fd9015a800d0fd6dd451bc3a061507b153afb1/classes.dex" />
+    </item>
+
+</items>

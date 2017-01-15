@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">MarinQuizApp3</string>
+
+    <string name="Name_hint">Please enter name here</string>
+
+    //Strings for Q1
+    <string name="stringQ1">People surf on a.....?</string>
+    <string name="Q1Radio_1">Skate Board</string>
+    <string name="Q1Radio_2">Surf Board</string>
+    <string name="Q1Radio_3">Wood front door</string>
+
+    //Strings for Q2
+    <string name="stringQ2">The most dangerous thing about surfing is?</string>
+    <string name="Q2radio_1">Bears</string>
+    <string name="Q2radio_2">Seagulls</string>
+    <string name="Q2radio_3">Sharks!</string>
+    <string name="correct">Sharks, Sharks, Sharks!!</string>
+
+    //Strings for Q3
+    <string name="stringQ3">Surfing is super fun?</string>
+    <string name="True">True</string>
+    <string name="False">False</string>
+    //String for Q4
+    <string name="RatingStmnt">How awesome is this app?</string>
+
+    //Grading Button
+    <string name="quiz_complete_button">Finish Quiz</string>
+
+
+</resources>
